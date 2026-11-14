@@ -37,8 +37,9 @@ Escola Técnica 3D
 3. IA na aprendizagem e nos estudos;
 4. IA na comunicação;
 5. IA na resolução de problemas;
-6. Benefícios e riscos da IA no cotidiano;
-7. Exemplos de ferramentas de IA no cotidiano.
+6. Exemplos de ferramentas de IA no cotidiano;
+7. Benefícios e riscos da IA no cotidiano.
+
 
 ## Objetivo
 
